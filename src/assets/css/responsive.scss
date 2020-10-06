@@ -1,0 +1,731 @@
+@media(max-width: 1440px) and (min-width: 1200px){
+    .dashboard-detailed-cont .detailcard .detail-info .time-slot,.dashboard-detailed-cont .detailcard .detail-info .time-slot-2{
+        font-size: 9px;
+        // line-height: 5;
+    }
+    .dashboard-detailed-cont .detailcard .time-slot{
+        font-size: 9px;
+    }
+    .dashboard-detailed-cont .detailcard .detail-info{
+        width: calc(100% - 200px);
+    }
+
+}
+@media(max-width:1440px) {
+    .substaionadress {
+        width: 175px;
+
+        .mr-5 {
+            margin-right: 5px !important;
+        }
+    }
+    .dashboard-detailed-cont .detailcard .detail-info p,.dashboard-detailed-cont .detailcard .detail-info h5{
+        font-size: 12px;
+    }
+    .dashboard-detailed-cont .detailcard .detail-info .time-slot,.dashboard-detailed-cont .detailcard .detail-info .time-slot-2{
+        font-size: 9px;
+        // line-height: 5;
+    }
+    .dashboard-detailed-cont .detailcard .detail-info .time-slot{
+        top: 4px;
+    }
+    .general-accor-date p{
+        font-size: 10px;
+    }
+}
+
+@media(max-width: 1300px){
+    .dashboard-detailed-cont .detailcard .time-slot{
+        font-size: 9px;
+    }
+    .dashboard-detailed-cont .detailcard .detail-info p{
+        font-size: 9px;
+    }
+    .dashboard-detailed-cont .detailcard .detail-info h5{
+        font-size: 12px
+    }
+}
+
+@media(max-width:1200px) {
+    /*------------------------dashboard----------------------------*/
+    span.status-text {
+        position: absolute;
+        top: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    /*----------------------------stormInspections------------------------*/
+    .substaioninfo.mr-5 {
+        margin-right: 5px !important;
+    }
+
+    .substaionadress {
+        width: 180px;
+
+        .mr-5 {
+            margin-right: 5px !important;
+        }
+    }
+
+    .panel-header h2 {
+        font-size: 14px;
+    }
+
+    .col-md-3.grid-card {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .CircularProgressbar {
+        width: 86%;
+        margin: 60px auto;
+        display: table;
+    }
+
+    span.status-text {
+        position: absolute;
+        top: initial;
+        bottom: 134px;
+    }
+}
+
+@media(max-width:1100px) {
+    .panel-header h2 {
+        width: 100%;
+    }
+
+    .panel-header span.icon {
+        position: absolute;
+        top: 20px;
+        right: 7px;
+    }
+
+    .panel-header .ddr div input {
+        text-align: left !important;
+    }
+
+    .panel-header h2 {
+        font-size: 14px;
+        padding: 8px 3px;
+    }
+
+    .icon.icon-search.search-in-head {
+        position: absolute;
+        top: 10px;
+        right: 50px;
+
+    }
+}
+
+@media(max-width:1024px) {
+
+    /*------------------------dashboard----------------------------*/
+    .dashboard-detailed-cont .detailcard .detail-info .time-slot {
+        top: -15px;
+    }
+
+    span.status-text {
+        bottom: 111px;
+    }
+
+    .recent-post-big {
+        -webkit-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+    }
+
+    .col-md-3.recent-post-small {
+        -webkit-flex: 0 0 50%;
+        flex: 0 0 50%;
+        margin: 5px 0px 0px 0px;
+        max-width: 50%;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+    }
+
+    .main-wrapper .content-wrapper .header h1 {
+        font-size: 40px;
+    }
+
+    /*------------------------report----------------------------*/
+    .reports-card {
+        -webkit-flex: 0 0 33%;
+        flex: 0 0 33%;
+        max-width: 33%;
+    }
+
+    /*----------------------------stormInspections------------------------*/
+    .storm-inspect-big {
+        -webkit-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .substaioninfo.mr-5 {
+        margin-right: 3rem !important;
+    }
+
+    .substaionadress {
+        .mr-5 {
+            margin-right: 3rem !important;
+        }
+    }
+
+    .numbering .count {
+        padding: 0px !important;
+    }
+
+
+}
+
+@media(max-width:992px) {
+    .map-details{
+        background: rgba(255, 255, 255, 0.83);
+    }
+
+    // .toptab .nav-tabs{
+    //     position: fixed;
+    // }
+    /*------------------------report----------------------------*/
+    .reports-card {
+        -webkit-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    /*----------------------------stormInspections------------------------*/
+    .numbering {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+
+    .numbering,
+    .col-sm-4.inspections-left {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+
+    .CircularProgressbar {
+        width: 278px;
+        margin: 60px auto;
+        display: table;
+    }
+
+    .absolute.icon.icon-search.search-on-map {
+        margin-top: 10px;
+        margin-right: 10px;
+    }
+
+    .dashboard-detailed-cont .detailcard .detail-info .time-slot {
+        position: static !important;
+    }
+
+    .dashboard-detailed-cont .detailcard .detail-info .time-slot-2 {
+        position: static !important;
+        display: block;
+    }
+
+    .dashboard-detailed-cont .detailcard {
+        height: 470px;
+    }
+
+    .dashboard-detailed-cont .detailcard .tiles-cont {
+        max-height: 350px;
+    }
+
+    .main-wrapper .sidebar{
+        width: 100% !important;
+        height: 60px;
+        bottom: 0;
+    }
+
+    .main-wrapper .content-wrapper{
+        width: 100% !important;
+    }
+
+    // menu
+    .main-wrapper .sidebar .side-header .logo{
+        padding: 0;
+        height: 100%;
+        position: relative;
+    }
+
+    .main-wrapper .sidebar .side-header .logo img{
+        width: 30px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .main-wrapper .sidebar .side-header{
+        width: 25%;
+    }
+    .main-wrapper .sidebar .side-menu ul li{
+        flex: 1 0 25%;
+        display: block;
+        text-align: center;
+        align-self: auto;
+        a{
+            span{
+                height:50px;
+                width: 50px
+            }
+        }
+        
+    }
+    .main-wrapper .sidebar .side-menu{
+        padding: 0;
+    }
+    .sidebar ul{
+        height: 100%;
+    }
+    // .main-wrapper .sidebar .side-menu ul li{
+    //     display: flex;
+    // }
+    .main-wrapper .sidebar .side-menu ul li a{
+      padding: 0;
+    }
+    .main-wrapper .sidebar .side-menu ul li a i,.main-wrapper .sidebar .side-menu ul li a i{
+        left: 50% !important;
+        top: 50% !important;
+        transform: translate(-50%, -50%);
+    }
+    .maxmize{
+        width: 100% !important;
+        height: calc(100% - 60px) !important;
+        margin-top: 0 !important;
+    }
+    // .minimize{
+    //     margin-top: 22px;
+    // }
+
+    .main-wrapper .content-wrapper .header{
+        width: 100% !important;
+    }
+
+    .pagination-custom{
+        margin-bottom: 50px;
+    }
+    .custom-margin{
+        margin-bottom: 63px;
+    }
+    .icon-maxmize{
+        bottom: 80px !important;
+    }
+
+    // scroller
+    ::-webkit-scrollbar-track {
+        -webkit-box-shadow: none;
+        background-color: transparent;
+    }
+
+    ::-webkit-scrollbar {
+        width: 0px;
+        background-color: transparent;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background-color: transparent;
+        border-radius: 0px;
+    }
+}
+
+@media(max-width:768px) {
+
+    .main-wrapper .sidebar .side-menu ul li{
+
+        a{
+            span{
+                height:25px;
+                width: 25px
+            }
+        }
+        
+    }
+
+    /*------------------------dashboard----------------------------*/
+    .dashboard-detailed-cont .detailcard {
+        margin: 5px;
+        height: 470px;
+    }
+
+    .dashboard-detailed-cont .assignment-card {
+        margin: 5px;
+    }
+
+    .col-md-3.recent-post-small {
+        -webkit-flex: 0 0 100%;
+        flex: 0 0 100%;
+        margin: 5px 0px 0px 0px;
+        max-width: 100%;
+    }
+
+    .main-wrapper .content-wrapper .header h1 {
+        font-size: 30px;
+    }
+
+    /*--------------------------report--------------------------*/
+    .reports-card {
+        -webkit-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    /*----------------------------stormInspections------------------------*/
+    .substaioninspector {
+        margin-top: 1rem !important;
+    }
+
+    .substaionadress {
+        width: 130px;
+
+        .mr-5 {
+            margin-top: 1rem !important;
+        }
+    }
+
+    .main-wrapper .sidebar {
+        width: 45px;
+    }
+
+    .main-wrapper .content-wrapper {
+        width: calc(100% - 45px);
+    }
+
+    .main-wrapper .content-wrapper .header {
+        width: calc(100% - 45px);
+    }
+
+    // .main-wrapper .sidebar .side-menu ul li a i {
+    //     font-size: 25px;
+    //     position: absolute;
+    //     top: 0px;
+    //     left: 10px;
+    // }
+    .numbering .col-md-4 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .main-wrapper .sidebar .side-header .logo img {
+        width: 20px;
+    }
+
+    .maxmize {
+        width: calc(100% - 45px);
+    }
+}
+
+
+
+
+@media(max-width:767px) {
+    .col-md-3.grid-card {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .container {
+        max-width: 715px;
+    }
+}
+
+@media(max-width:600px) {
+    .substaionadress.mr-5 {
+        margin-top: 0px !important;
+        margin-left: 67px;
+    }
+}
+
+@media (max-width: 576px) {
+    .dashboard-detailed-cont .detailcard .detail-info{
+        width: calc(100% - 50px);
+    }
+    .assgntile .lhs{
+        max-width: 150px;
+    }
+    /*------------------------dashboard----------------------------*/
+    .tab-content .count {
+        padding: 0px !important;
+        margin: 0px !important;
+        text-align: center !important;
+    }
+
+    span.status-text {
+        position: absolute;
+        top: 65%;
+    }
+
+    .main-wrapper .sidebar .side-header .logo {
+        width: 25px;
+    }
+
+    .dashboard-detailed-cont .detailcard h3.card-head {
+        font-size: 13px;
+    }
+
+    .dashboard-detailed-cont .assignment-card h3 {
+        font-size: 13px;
+    }
+
+    .main-wrapper .sidebar .side-menu ul li a {
+        padding: 0px 0px;
+    }
+    .main-wrapper .sidebar .side-menu ul li{
+        padding: 0px 0;
+    }
+
+    /*----------------------------reports------------------------*/
+    .main-wrapper .content-wrapper .header h1 {
+        font-size: 30px;
+        position: absolute;
+        bottom: 40px;
+    }
+
+    .main-wrapper .content-wrapper .header .icon-search {
+        width: 100%;
+    }
+
+    /*----------------------------stormInspections------------------------*/
+    .icon-arrow_up:before {
+        font-size: 8px;
+    }
+
+    // position: absolute;
+    // top: 21px;
+    // right: 8px;
+
+    .panel-header .icon-search {
+        position: relative;
+        width: 100% !important;
+    }
+
+    input.search-class-secondary {
+        max-width: 100% !important;
+    }
+
+    .ddr.mr-3.mt-auto {
+        margin-bottom: 5px;
+    }
+
+    .ddr-menu.mr-3.mt-auto {
+        margin-bottom: 5px;
+    }
+
+    .p-2.pl-3.primary-bg.card-header {
+        padding-left: 8px !important;
+    }
+
+    .panel-header h2 {
+        padding-bottom: 8px;
+    }
+
+    .substaioninspector {
+        margin-top: 0px !important;
+        position: static;
+        top: 4px;
+        // margin-left: 67px;
+    }
+
+    .maxmize {
+
+        margin-top: 45px;
+    }
+    .minimize{
+        margin-top: 0;
+    }
+
+    .icon.icon-search.search-in-head {
+        position: relative;
+        top: 0;
+        right: 0;
+
+    }
+    .dashboard-detailed-cont .detailcard .detail-info .time-slot,.dashboard-detailed-cont .detailcard .detail-info .time-slot-2{
+        display: block;
+        font-size: 10px;
+    }
+    .dashboard-detailed-cont .detailcard .tiles-cont .case-two-bold{
+        margin-bottom: 5px !important;
+    }
+    .dashboard-detailed-cont .detailcard .tiles-cont{
+        max-height: 370px;
+        min-width: 370px;
+    }
+    .general-accor-date{
+        margin-left: 67px;
+    }
+    .toptab .nav-tabs .nav-link{
+        padding: 2px 14px;
+    }
+
+    .parent{
+        width: 160px;
+    }
+    
+    .map-details ul li img{
+        width: 20px;
+    }
+    .map-details ul li span{
+        font-size: 9px;
+    }
+    .substaioninspector {
+        margin-top: 0px !important;
+        position: static;
+        top: 4px;
+        // margin-left: 67px;
+    }
+    .modal-cross{
+        right: 0;
+    }
+    .tile-detail-data{
+        float:none;
+        padding: 10px !important;
+      }
+      .tile-date-date{
+          float:none;
+          padding-left: 53px;
+    margin-top: -9px;
+text-align: left;
+      } 
+    
+}
+
+@media(max-width:480px) {
+
+    /*------------------------dashboard----------------------------*/
+    .dashboard-detailed-cont .detailcard .detail-info h5 {
+        font-size: 10px;
+    }
+
+    span.status-text {
+        top: 58%;
+    }
+
+    /*--------------------------report--------------------------*/
+    .reportcard p {
+        font-size: 10px;
+    }
+
+    /*----------------------------stormInspections------------------------*/
+
+
+    .align-items-center.pr-3 {
+        padding-right: 0px !important;
+    }
+
+    .substaionadress.mr-5 {
+        margin-right: 0px !important;
+        margin-top: 0rem !important;
+    }
+
+    .substaioninfo.mr-5 {
+        margin-right: 0px !important;
+    }
+
+    
+
+    .main-wrapper .sidebar .side-header .logo img {
+        width: 20px;
+    }
+
+    .CircularProgressbar {
+        width: 220px;
+    }
+    
+    
+}
+
+@media(max-width:380px) {
+
+    /*------------------------dashboard----------------------------*/
+    span.status-text {
+        top: 63%;
+        font-size: 8px;
+        width: 50px;
+    }
+
+    .dashboard-detailed-cont .detailcard {
+        padding: 5px;
+    }
+
+    .dashboard-detailed-cont .assignment-card {
+        padding: 5px;
+    }
+
+    .recent-post-big {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .recent-post-small {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .button.btn.btn-larg.with-bg {
+        font-size: 10px;
+        line-height: 15px;
+        margin-top: 0px;
+    }
+
+    
+
+    .dashboard-detailed-cont .assignment-card {
+        height: 370px;
+    }
+
+    .logout {
+        position: absolute;
+        right: 0px;
+        top: 4px;
+        font-size: 8px;
+    }
+
+    .dashboard-detailed-cont .detailcard .detail-info p {
+        font-size: 8px;
+        line-height: 8px;
+    }
+
+
+    /*----------------------------report------------------------*/
+    .main-wrapper .content-wrapper .header h1 {
+        font-size: 20px;
+    }
+
+    /*----------------------------stormInspections------------------------*/
+
+    .panel-header .icon-search {
+        margin-top: 8px;
+    }
+
+    .primary-bg.card-header {
+        padding-left: 5px !important
+    }
+
+    .panel-header h2 {
+        font-size: 16px;
+    }
+
+    .ddr-menu.mr-3.mt-auto {
+        font-size: 10px;
+    }
+
+    .panel-header .dropdown button {
+        font-size: 14px;
+    }
+
+    .panel-header .icon-search {
+        width: 100% !important;
+    }
+
+    span.icon.color-secondary.icon-arrow_up {
+        top: 0;
+    }
+
+    .accordion-stack .card-body .container .card-header {
+        padding-right: 0px !important;
+    }
+}

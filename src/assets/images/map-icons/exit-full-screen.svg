@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="40" height="40" fill="#FFF" fill-rule="nonzero" rx="8"/>
+    <g fill-rule="nonzero" stroke="#1D4F91" stroke-linecap="round" stroke-width="1.62" transform="rotate(180 15.5 8.5)">
+      <path d="M3.5141147,0.0686170949 L3.5141147,8.97861709" transform="rotate(45 3.514 4.524)"/>
+      <polyline points=".434 7.588 .434 .298 7.724 .298" transform="rotate(90 4.079 3.943)"/>
+    </g>
+    <g fill-rule="nonzero" stroke="#1D4F91" stroke-linecap="round" stroke-width="1.62" transform="rotate(180 8.5 15.5)">
+      <path d="M4.44569989,-0.8629681 L4.44569989,8.0470319" transform="rotate(45 4.446 3.592)"/>
+      <polyline points=".298 7.724 .298 .434 7.588 .434" transform="matrix(1 0 0 -1 0 8.157)"/>
+    </g>
+    <g fill-rule="nonzero" stroke="#1D4F91" stroke-linecap="round" stroke-width="1.62" transform="rotate(180 15.5 15.5)">
+      <path d="M3.49484088,-0.959343276 L3.49484088,7.95065672" transform="rotate(135 3.495 3.496)"/>
+      <polyline points=".434 7.724 .434 .434 7.724 .434" transform="matrix(0 -1 -1 0 8.157 8.157)"/>
+    </g>
+    <g fill-rule="nonzero" stroke="#1D4F91" stroke-linecap="round" stroke-width="1.62" transform="rotate(180 8.5 8.5)">
+      <path d="M4.42642607,-0.027758081 L4.42642607,8.88224192" transform="rotate(135 4.426 4.427)"/>
+      <polyline points=".298 7.588 .298 .298 7.588 .298"/>
+    </g>
+  </g>
+</svg>
